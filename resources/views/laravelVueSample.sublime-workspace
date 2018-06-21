@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Con",
+				"ConvertToUTF8: Reload with Encoding"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/LaravelVueSample"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/TextOut/public/js/app.js",
+		"/Applications/MAMP/htdocs/TextOut/resources/assets/js/bootstrap.js",
+		"/Applications/MAMP/htdocs/TextOut/node_modules/cross-env/dist/bin/cross-env.js",
+		"/Applications/MAMP/htdocs/TextOut/public/css/app.css",
+		"/Users/mash/PJ/bitbucket/dic-reserve/config/initializers/wicked_pdf.rb",
+		"/Users/mash/Desktop/DICTUX/PJ/ふれあい/調査/20180523_データを反映させて表示/PDFに反映",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/create_reserve.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user/calendar/_header.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/home/teaser.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/user/calendar_controller.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/mailers/user_mailer.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/mailers/application_mailer.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/config/settings.yml",
+		"/Users/mash/PJ/bitbucket/dic-reserve/config/environments/production.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/config/environments/development.rb",
+		"/Users/mash/Desktop/DICTUX/PJ/ふれあい/障害対応/再起動自動化/再起動コマンドをcronにしこむ",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/staff/reserves_controller.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user/calendar/top.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/devise/passwords/new.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/config/locales/views/devise.views.ja.yml",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/helpers/devise_helper.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/devise/mailer/reset_password_instructions.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/user/passwords_controller.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/layouts/application_user.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/application_controller.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/account_confirmation.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/_footer.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/_reserve.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/cancel_reserve.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/user_mailer/account_delete.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/devise/mailer/confirmation_instructions.text.erb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/views/devise/confirmations/new.html.slim",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/user/confirmations_controller.rb",
+		"/Users/mash/PJ/bitbucket/dic-reserve/app/controllers/home_controller.rb",
+		"/Applications/MAMP/htdocs/dic-3310/company/config/const.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Common/Common.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-list.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-preview.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-more.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/user-touroku.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/bootstrap/cache/config.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/company/companycreate.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/company/companyupdate.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/company/companylist.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/.env",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Controllers/Controller.php",
+		"/Applications/MAMP/htdocs/dic-3310/wp-content/themes/m-shokokai/sidebar.php",
+		"/Users/mash/Dropbox/DICTUX/PJ/ヘテムル移行/移行情報集.txt",
+		"/Users/mash/Dropbox/DICTUX/PJ/シンシア/■シンシア　リリース.txt",
+		"/Users/mash/Dropbox/DICTUX/PJ/シンシア/シンシアサーバー.txt",
+		"/Users/mash/Downloads/sincere/_sincere_db.sql",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Controllers/CompaniesController.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/auth/register.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/user/userlist.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/auth/login.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/app.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/layouts/app.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/storage/framework/views/9659159e089fd573837093e94824a5f3a9f9b65c.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Controllers/Consumer/ConsumerController.php",
+		"/Users/mash/Desktop/三郷商工会_hetemlログイン.txt",
+		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-preview.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/user/usercreate.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/wp-config.php",
+		"/Volumes/Macintosh HD/Users/mash/Downloads/.htaccess",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/user/userupdate.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Controllers/UsersController.php",
+		"/Users/mash/Downloads/3310引越し/_dic_3310_wp.sql",
+		"/Users/mash/Library/Caches/Transmit/8EFC419E-4E89-4A78-9EE8-902D48071B16/ftp-3310.heteml.net/web/3310.biz/company/app/Http/Controllers/CompaniesController.php",
+		"/Users/mash/Library/Caches/Transmit/33511A01-22E3-4C70-BB2B-BD4F86595C50/ftp-3310.heteml.net/web/3310.biz/.htaccess",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Providers/AppServiceProvider.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/readme.md",
+		"/Users/mash/Library/Caches/Transmit/2205F138-6FCD-4B85-8474-E160DC86B687/ftp-3310.heteml.net/web/3310.biz/company/storage/logs/laravel.log",
+		"/Users/mash/Library/Caches/Transmit/285EC879-468B-477E-8DE7-ECBFAEAC38BE/ftp-3310.heteml.net/web/3310.biz/company/config/mail.php",
+		"/Users/mash/Library/Caches/Transmit/94038402-0360-4443-ADF5-47F51DDE80C8/ftp-3310.heteml.net/web/3310.biz/company/.env",
+		"/Users/mash/Library/Caches/Transmit/5EC19937-EB59-4DBA-8DD5-2955FA60DB95/ftp-3310.heteml.net/web/3310.biz/company/storage/logs/laravel.log",
+		"/Users/mash/Library/Caches/Transmit/C06DF6D1-497D-4725-8F2F-A716297DDFEC/ftp-3310.heteml.net/web/3310.biz/company/storage/logs/laravel.log",
+		"/Applications/MAMP/htdocs/dic-3310/company/config/mail.php",
+		"/Users/mash/Library/Caches/Transmit/42D44B40-A8F1-499B-B03A-E9BAD5D21F87/ftp-3310.heteml.net/web/3310.biz/company/.env",
+		"/Users/mash/Library/Caches/Transmit/BA43B00A-1BF2-4D5A-A1B2-892DA4489A8D/ftp-3310.heteml.net/web/3310.biz/company/app/Http/Middleware/HttpsProtocol.php",
+		"/Users/mash/Library/Caches/Transmit/634566E5-3F0E-4193-8C9D-87531039E1BA/ftp-3310.heteml.net/web/3310.biz/wp-content/themes/m-shokokai/sidebar.php",
+		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/dic-3310/company/app/Http/Middleware/HttpsProtocol.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Middleware/HttpsProtocol.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Kernel.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/common/common_js.blade.php",
+		"/Users/mash/Library/Caches/Transmit/5D462A0D-CEF9-41FA-87CC-23EC87013ABD/ftp-3310.heteml.net/web/3310.biz/.htaccess",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-send.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/company-top.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/user-footer.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/resources/views/consumer/user-header.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/storage/framework/views/608174750671f3aa180fc898a80797d6272f9fb8.php",
+		"/Users/mash/Library/Caches/Transmit/B3EF7984-E356-4D72-B871-9698BD21718C/ftp-3310.heteml.net/web/3310.biz/company/.env",
+		"/Applications/MAMP/htdocs/dic-3310/company/app/Http/Controllers/Auth/LoginController.php",
+		"/Volumes/Macintosh HD/Applications/MAMP/htdocs/dic-3310/company/resources/views/layouts/app.blade.php",
+		"/Applications/MAMP/htdocs/dic-3310/company/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Users/mash/Dropbox/DICTUX/PJ/宮坂徽章/宮坂徽章.txt",
+		"/Users/mash/Library/Application Support/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/Users/mash/PJ/miya-cup/miya2/data/class/SC_AdminView.php",
+		"/Applications/MAMP/htdocs/able.curtain-f/wp-config-sampleのコピー.php",
+		"/Applications/XAMPP/xamppfiles/apache2/htdocs/LaravelPractice/public/index.php",
+		"/Users/mash/Desktop/dictux/Github移行/本番検索結果.txt",
+		"/Users/mash/Desktop/dictux/Github移行/GitHub移行.txt",
+		"/Users/mash/Desktop/dictux/仕様変更/No43.44_ソート順変更/ソート順変更.txt",
+		"/Users/mash/Dropbox/フリーランス/起動とかもろもろ.txt",
+		"/Users/mash/Desktop/private/ローカルからの上げ方.txt",
+		"/Users/mash/Desktop/private/ももちゃんのサイト.txt",
+		"/Users/mash/Desktop/dictux/仕様変更/No39_キャンセル日時/キャンセル日時概要.txt",
+		"/Users/mash/Desktop/エコネクト.txt",
+		"/Users/mash/Dropbox/フリーランス/コミット方法.txt",
+		"/Users/mash/Dropbox/blog/転職ブログ.txt",
+		"/Users/mash/Dropbox/blog/転職ブログ2.txt",
+		"/Users/mash/Desktop/転職ブログ2.txt",
+		"/Users/mash/Desktop/転職ブログ.txt",
+		"/Users/mash/Desktop/dictux/障害対応/No37_予約と空き状況の不一致/再改修/再改修内容.txt",
+		"/Users/mash/Desktop/dictux/障害対応/No40_41_ハガキラベル/ハガキラベル修正概要.txt",
+		"/Users/mash/Dropbox/フリーランス/DB情報.txt",
+		"/Users/mash/Desktop/dictux/障害対応/No40_41_ハガキラベル/やること.txt",
+		"/Users/mash/Desktop/dictux/障害対応/No37_予約と空き状況の不一致/予約状況表示SQL",
+		"/Users/mash/Dropbox/フリーランス/20170906_障害対応.txt",
+		"/Users/mash/Downloads/users.sql",
+		"/Users/mash/Desktop/dictux/障害対応/No40_41_ハガキラベル/users.sql",
+		"/Users/mash/Dropbox/フリーランス/開発環境の起動手順.txt",
+		"/Users/mash/Desktop/dictux/team viewer.txt",
+		"/Users/mash/Dropbox/フリーランス/アプリを動かすためにした設定.txt",
+		"/Users/mash/Dropbox/フリーランス/デバッグログ.txt",
+		"/Users/mash/Desktop/pj/障害対応/20170717/対応.txt",
+		"/Users/mash/Desktop/pj/障害対応/20170828/0828の対応内容.txt",
+		"/Users/mash/Desktop/pj/dic-uni-dic-reserve-93804043f77e/config/initializers/config.rb",
+		"/Users/mash/Desktop/pj/dic-uni-dic-reserve-93804043f77e/app/views/user/calendar/_header.html.slim"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravelVueSample.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cross-en",
+				"node_modules/cross-env/dist/bin/cross-env.js"
+			],
+			[
+				"welcome.",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"create_re",
+				"app/views/user_mailer/create_reserve.text.erb"
+			],
+			[
+				"_header",
+				"app/views/user/calendar/_header.html.slim"
+			],
+			[
+				"teaser.",
+				"app/views/home/teaser.html.slim"
+			],
+			[
+				"top",
+				"app/views/user/calendar/top.html.slim"
+			],
+			[
+				"settings",
+				"config/settings.yml"
+			],
+			[
+				"passwords",
+				"app/views/devise/mailer/reset_password_instructions.text.erb"
+			],
+			[
+				"confirmations",
+				"app/views/devise/mailer/confirmation_instructions.text.erb"
+			],
+			[
+				"const.php",
+				"dic-3310/company/config/const.php"
+			],
+			[
+				"config.php",
+				"dic-3310/company/bootstrap/cache/config.php"
+			],
+			[
+				"common.php",
+				"dic-3310/company/app/Common/Common.php"
+			],
+			[
+				".en",
+				"dic-3310/company/.env"
+			],
+			[
+				"company",
+				"dic-3310/company/app/Http/Controllers/CompaniesController.php"
+			],
+			[
+				"companycontroller",
+				"dic-3310/company/app/Http/Controllers/Controller.php"
+			],
+			[
+				"companiescontroller",
+				"dic-3310/company/app/Http/Controllers/CompaniesController.php"
+			],
+			[
+				"",
+				"宮坂徽章/データ移行/mtb_zip_移行INSERT文.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
